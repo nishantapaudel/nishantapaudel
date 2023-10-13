@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 <p>Web Developer and Designer.</p>
----------------------------
 
 *   🌍  I'm based in Pokhara
 *   ✉️  You can contact me at [nishantapaudel29@gmail.com](mailto:nishantapaudel29@gmail.com)
